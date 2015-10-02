@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 
-class MyQueue {
+class MyQueueUsingStack {
     // Push element x to the back of queue.
     private Stack<Integer> input = new Stack<Integer>();
     private Stack<Integer> output = new Stack<Integer>();
